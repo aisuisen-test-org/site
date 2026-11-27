@@ -2,7 +2,7 @@ schema_version: 1
 site_id: site_01M8DJEK020T9WPKVGHGE9MREF
 template:
   name: dental-standard
-  version: 1.0.0
+  version: 9.9.9
 industry_pack:
   id: medical_dental
   version: 2
